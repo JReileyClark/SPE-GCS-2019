@@ -1,2 +1,1 @@
-# PTE582
-Fall 2017 USC PTE 582 
+# No Project Defined
